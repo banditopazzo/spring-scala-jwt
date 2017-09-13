@@ -1,0 +1,16 @@
+target/
+.settings/
+build/
+out/
+bin/
+.idea/
+.springBeans
+.classpath
+.project
+.cache
+.cache*
+.gradle
+*.iml
+*.iws
+.DS_Store
+*.ipr
